@@ -44,7 +44,7 @@
 <p align="center">
 <img src="Imagenes/image4.png"
 	alt="image4"
- 	width="950"
+ 	width="450"
   	style="float: left; margin-left: 10px;" />
 </p>
 
