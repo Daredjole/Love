@@ -3,6 +3,12 @@
 
 -  !! I am not responsible for the misuse of Love.exe, I did it for educational purposes ¡¡
 
+<p align="center">
+<img src="imagenes/icon.png"
+	alt="Evil logo"
+	width="200"
+	style="float: left; margin-right: 10px;" />
+</p>
 
 - Love is a keylogger virus that self-replicates in the system and implants itself in the registry to resume its operation when the computer is turned on. The idea in the future is to become invisible to the Windows antivirus. Thanks to Evil_love.sh we can configure this file of raw love and prepare it to be sent.
 
