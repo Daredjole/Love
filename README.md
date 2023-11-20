@@ -4,7 +4,7 @@
 -  !! I am not responsible for the misuse of Love.exe, I did it for educational purposes ¡¡
 
 <p align="center">
-<img src="/imagenes/icon.png"
+<img src="/Imagenes/icon.png"
 	alt="Evil"
 	width="200"
 	style="float: left; margin-right: 10px;" />
